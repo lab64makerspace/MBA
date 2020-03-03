@@ -1,7 +1,5 @@
-# MBA
-Home of the lab64 MBA (Motorized Board Association)
-
-## lab64 Motorized Board Association
+# lab64 MBA
+(Motorized Board Association)
 
 Welcome! If you're here, you're probably interested in building your own electric skateboard. Whether you're a seasoned maker or a newbie, we'll help guide your way to building your very own motorized board.
 
