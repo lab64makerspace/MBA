@@ -5,7 +5,7 @@ Welcome! If you're here, you're probably interested in building your own electri
 
 Feedback is always appreciated! Please send any questions, comments, or suggestions to <chtsao@stanford.edu>.
 
-For code related questions, please post to the [issues tab](https://github.com/chtsao8/lab64-MBA/issues).
+For code related questions, please post to the [issues tab](https://github.com/lab64makersapce/MBA/issues).
 
 **_Please always wear a helmet when testing/riding._**
 
